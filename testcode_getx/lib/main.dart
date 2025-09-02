@@ -3,7 +3,6 @@ import 'package:get/get.dart';
 import 'package:testcode/controllers/controller.dart';
 import 'package:testcode/init_app.dart';
 import 'package:testcode/views/login/login_view.dart';
-import 'views/login/login_view.dart';
 
 Future<void> main() async {
   await initApp();
